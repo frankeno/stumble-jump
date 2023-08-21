@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerAnimations
+  m_TargetType:
+    m_NativeTypeID: 111
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Animation
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Animations.Array.size
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_Animations.Array.data[0]
+    value: 
+    objectReference: {fileID: 7400000, guid: 10e9d44df578d4509b97e94a18398e7d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Animations.Array.data[1]
+    value: 
+    objectReference: {fileID: 7400000, guid: cbdd573aa776747158405cea283059c2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_Animations.Array.data[2]
+    value: 
+    objectReference: {fileID: 7400000, guid: f25acc04d362f4b018abeb7cc9a15aab, type: 2}
+  - target: {fileID: 0}
+    propertyPath: m_WrapMode
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_PlayAutomatically
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_AnimatePhysics
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_CullingType
+    value: 0
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
